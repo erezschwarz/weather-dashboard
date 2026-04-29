@@ -1,5 +1,5 @@
 // Replace with your OpenWeatherMap API key from https://openweathermap.org/api
-const API_KEY = 'YOUR_API_KEY_HERE';
+const API_KEY = 'dc275f824809250b69ce7d6de5f049ad';
 const GEOCODING_API = 'https://api.openweathermap.org/geo/1.0/direct';
 const WEATHER_API = 'https://api.openweathermap.org/data/2.5/weather';
 const FORECAST_API = 'https://api.openweathermap.org/data/2.5/forecast';
